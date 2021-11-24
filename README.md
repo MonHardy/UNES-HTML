@@ -28,9 +28,9 @@
   <p><p>
   <h6 align="left">PREVIEW</h6>
   <p float="left">
-  <img src="https://user-images.githubusercontent.com/85580881/143170736-09b76181-65c8-4017-b200-118c902c0ded.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/85580881/143171169-4ae29f80-1e5d-4945-82aa-d5ca1debc47a.png" width="300" /> 
-  <img src="https://user-images.githubusercontent.com/85580881/143171610-3f36defd-bb3f-455f-a631-4d728831e77c.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/85580881/143170736-09b76181-65c8-4017-b200-118c902c0ded.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/85580881/143171169-4ae29f80-1e5d-4945-82aa-d5ca1debc47a.png" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/85580881/143171610-3f36defd-bb3f-455f-a631-4d728831e77c.png" width="200" />
 </p>
 
 <p>
